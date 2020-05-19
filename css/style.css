@@ -1,0 +1,95 @@
+body{
+    background-color:   #130f40;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 23px;
+}
+#login {
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-top: 4%;
+    font-size: 50px;
+}
+
+.all{
+    margin-top: 5%;
+    padding-top: 40px;
+    width: 30%;
+    height: 500px;
+    background-color: white;
+    border-radius: 26px;
+}
+input{
+    margin-bottom: 8%;
+    margin-left:6%;
+    border-left:none ;
+    border-right: none;
+    border-top: none;
+    width: 40%;
+    outline: none;
+    
+}
+label {
+    color:  #0c2461;
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+#btncn{
+    background-color:#0c2461 ;
+    border: #0c2461;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    width: 30%;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 20px;
+
+}
+::placeholder {
+    font-size: 18px;
+}
+#inputmail{
+    margin-left: 79px;
+}
+.all1{
+    margin-top: 4%;
+    margin-left: 20%;
+    padding-left: 7%;
+    padding-top: 40px;
+    width: 70%;
+    height: 700px;
+    background-color: white;
+    border-radius: 26px;
+}
+textarea {
+    padding: 10px;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+#lb {
+    display: block;
+    margin-bottom: 10px;
+}
+#inputadd{
+    margin-left: -0%;
+}
+
+#btnedit {
+color: yellow;
+font-size: 24px;
+font-weight: bold;
+
+}
+#btndelete {
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+    
+    }
+
+    #ttt {
+        color: yellow;
+    
+    }
